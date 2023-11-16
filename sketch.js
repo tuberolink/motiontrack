@@ -178,7 +178,7 @@ function draw() {
   triggered to free or vice versa). An object that stores zone data is passed
   as the parameter to the function.
 */
-function deviceShaken() {
+/*function deviceShaken() {
   fullscreen(true);
 }
 
